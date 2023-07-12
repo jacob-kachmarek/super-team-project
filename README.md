@@ -1,1 +1,1 @@
-I enjoy Javascript because it utilizies both FUnctional programming and OOP
+I enjoy Javascript because it utilizies both FUnctional programming and OOP.
